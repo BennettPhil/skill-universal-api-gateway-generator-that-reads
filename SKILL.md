@@ -12,7 +12,7 @@ Implement the idea: Universal API gateway generator that reads any combination o
 Must handle 100k+ RPS, support canary deployments, and include built-in A/B testing for API responses.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: example-first-builder description: A builder that generates Agent Skills by creating concrete usage examples first, then building the implementation to support them. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: script-heavy-builder description: A builder that generates Agent Skills composed of multiple composable shell scripts following Unix philosophy. version: 0.1.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.

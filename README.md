@@ -6,4 +6,4 @@ Idea prompt: Universal API gateway generator that reads any combination of REST,
 Must handle 100k+ RPS, support canary deployments, and include built-in A/B testing for API responses.
 
 ## Notes
-Generated using builder `example-first-builder` (ee456d17-f2ae-47a3-adc4-c7b9b7b9e634) with fitness 0.150.
+Generated using builder `script-heavy-builder` (18226839-5a75-4241-a10e-e86eb1b6ae06) with fitness 0.150.
